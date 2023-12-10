@@ -1,0 +1,23 @@
+-----------------------------------------------------------------
+Trabalho de Visualização Computacional: Projeto Prático - etapa 2
+-----------------------------------------------------------------
+
+Cícero Coimbra Fonseca - 12624912
+Helber Martins de Moraes - 10260181
+Aimê G. da Nobrega - 11882429
+
+---------------------------------------------------------
+Links Úteis
+---------------------------------------------------------
+Colab Notebook:
+https://colab.research.google.com/drive/1kCCZb34FvKYgtUnkZJQuuq-j_dkMylFW#scrollTo=qr3MZpR3kF7Y
+
+Repositório GitHub:
+https://github.com/aime-n/visu-comp
+
+---------------------------------------------------------
+Instruções
+---------------------------------------------------------
+1. Acesse o link do Colab para visualizar a análise interativa.
+2. Explore os dados selecionando diferentes regiões e intervalos de tempo.
+3. Utilize o repositório do GitHub para acessar o código fonte se erro no Colab ou para melhor visualização.

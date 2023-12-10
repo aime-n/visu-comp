@@ -10,7 +10,7 @@ Aimê G. da Nobrega - 11882429
 Links Úteis
 ---------------------------------------------------------
 Colab Notebook:
-https://colab.research.google.com/drive/1kCCZb34FvKYgtUnkZJQuuq-j_dkMylFW#scrollTo=qr3MZpR3kF7Y
+https://drive.google.com/file/d/1kCCZb34FvKYgtUnkZJQuuq-j_dkMylFW/view?usp=sharing
 
 Repositório GitHub:
 https://github.com/aime-n/visu-comp
